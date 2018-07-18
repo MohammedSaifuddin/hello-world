@@ -2,4 +2,4 @@
 my first repository
 
 Hi. people
-I like githud
+I like github
